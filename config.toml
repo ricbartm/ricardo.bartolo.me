@@ -1,11 +1,11 @@
-title = "Aerial"
+title = "Ricardo Bartolomé - Infrastructure / SRE / DevOps"
 baseurl = "https://ricardo.bartolo.me/"
 languageCode = "en-us"
 theme = "aerial"
 
 [params]
   name = "Ricardo Bartolomé"
-  about = "Infrastructure Engineer"
+  about = "Infrastructure / SRE / DevOps"
   copyright = "Ricardo Bartolomé"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
